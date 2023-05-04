@@ -54,7 +54,7 @@ columns: 1
 layout: Heroes of Adventure
 image: "[[z_assets/hoa-rogan.png]]"
 name: Rogan
-description: Northmen Bard
+redescription: Northmen Bard
 lvl: 1
 hlt: 16
 def: "8 (DR 1)"
