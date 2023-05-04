@@ -68,4 +68,3 @@ skills: crafting d4, Guile d6, Languages d6 (broken tongue, common, dwarven), Lo
 abilities: Dark Vision, Inspiring Words, Iron Skin, Long-lived, Silver tongue
 ```
 
-
