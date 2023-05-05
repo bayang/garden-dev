@@ -9,5 +9,3 @@ home
 
 [[test\|test]]
 
-
-[object HTMLDivElement]
