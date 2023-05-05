@@ -9,30 +9,10 @@
 
 > [!dice]+ Title
 > Contents
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18370:21)
-    at evalInContext (plugin:dataview:18371:7)
-    at asyncEvalInContext (plugin:dataview:18381:32)
-    at DataviewJSRenderer.render (plugin:dataview:18402:19)
-    at DataviewJSRenderer.onload (plugin:dataview:17986:14)
-    at e.load (app://obsidian.md/app.js:1:869278)
-    at DataviewApi.executeJs (plugin:dataview:18921:18)
-    at Publisher.eval (plugin:digitalgarden:14448:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:78:61)</pre>
+> <h1><span><p>test</p></span></h1>
 >###### Bio
 >
-><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18370:21)
-    at evalInContext (plugin:dataview:18371:7)
-    at asyncEvalInContext (plugin:dataview:18381:32)
-    at DataviewJSRenderer.render (plugin:dataview:18402:19)
-    at DataviewJSRenderer.onload (plugin:dataview:17986:14)
-    at e.load (app://obsidian.md/app.js:1:869278)
-    at DataviewApi.executeJs (plugin:dataview:18921:18)
-    at Publisher.eval (plugin:digitalgarden:14448:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:65:24)</pre>
+>
 >
 >
 
