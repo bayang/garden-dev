@@ -10,8 +10,8 @@
 > [!dice]+ Title
 > Contents
 > >
-<h1><span><p>test</p></span></h1>>
-
+<h1><span><p>test</p></span></h1>
+>
 >###### Bio
 >
 >>
@@ -31,8 +31,8 @@
 <td>30</td>
 </tr>
 </tbody>
-</table></span></span>>
-
+</table></span></span>
+>
 >
 >
 
