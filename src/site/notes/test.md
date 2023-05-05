@@ -17,7 +17,7 @@
     at DataviewJSRenderer.onload (plugin:dataview:17986:14)
     at e.load (app://obsidian.md/app.js:1:869278)
     at DataviewApi.executeJs (plugin:dataview:18921:18)
-    at Publisher.eval (plugin:digitalgarden:14446:23)
+    at Publisher.eval (plugin:digitalgarden:14448:23)
     at Generator.next (&lt;anonymous&gt;)
     at eval (plugin:digitalgarden:78:61)</pre>
 >###### Bio
@@ -30,7 +30,7 @@
     at DataviewJSRenderer.onload (plugin:dataview:17986:14)
     at e.load (app://obsidian.md/app.js:1:869278)
     at DataviewApi.executeJs (plugin:dataview:18921:18)
-    at Publisher.eval (plugin:digitalgarden:14446:23)
+    at Publisher.eval (plugin:digitalgarden:14448:23)
     at Generator.next (&lt;anonymous&gt;)
     at fulfilled (plugin:digitalgarden:65:24)</pre>
 >
