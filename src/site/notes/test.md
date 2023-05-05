@@ -9,13 +9,11 @@
 
 > [!dice]+ Title
 > Contents
-> >
-<h1><span><p>test</p></span></h1>
+> ><h1><span><p>test</p></span></h1>
 >
 >###### Bio
 >
->>
-<span><span><table>><thead>
+>><span><span><table>><thead>
 <tr>
 <th><strong>Race</strong></th>
 <th>Human</th>
