@@ -82,6 +82,52 @@ collapse: open
 
 
 
+```ad-quote
+
+<h1><span><p>test</p></span></h1>
+
+```
+
+
+```ad-quote
+title: title
+
+<h1><span><p>test</p></span></h1>
+
+```
+
+
+```ad-quote
+color: 255, 0, 0
+
+<h1><span><p>test</p></span></h1>
+
+```
+
+```ad-quote
+collapse: open
+
+<h1><span><p>test</p></span></h1>
+
+```
+
+```ad-quote
+title: opened
+collapse: open
+
+<h1><span><p>test</p></span></h1>
+
+```
+
+```ad-quote
+title: closed
+collapse: closed
+
+<h1><span><p>test</p></span></h1>
+
+```
+
+
 
 example statblock : 
 
