@@ -88,6 +88,34 @@ color: 255, 0, 0
 
 
 
+> [!dice]+ Title
+>  <h1><span><p>test</p></span></h1>
+><img src="https://hostux.pics/images/2023/05/01/9ygn4bDrvtjZJRH3PizM--1--6qf1af53e90c66f64e904.jpeg">
+>
+> ###### Bio
+>
+> <span><span><table>
+> <thead>
+> <tr>
+> <th><strong>Race</strong></th>
+> <th>Human</th>
+> </tr>
+> </thead>
+> <tbody>
+> <tr>
+> <td><strong>Class</strong></td>
+> <td>Ranger  2</td>
+> </tr>
+> <tr>
+> <td><strong>Age</strong></td>
+> <td>30</td>
+> </tr>
+> </tbody>
+> </table></span></span>
+>
+
+
+
 example statblock : 
 
 
