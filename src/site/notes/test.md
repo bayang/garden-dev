@@ -44,10 +44,10 @@ test
 
 > [!NOTE]+ Title
 > Contents
-> - [[home\|home]]
-- [[other\|other]]
-- [[test\|test]]
-- [[test2\|test2]]
+> | File                     |
+| ------------------------ |
+| [[test/note1\|note1]] |
+| [[test/note2\|note2]] |
 
 { .block-language-dataview}
 
