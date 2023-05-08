@@ -8,19 +8,10 @@ title
 ![Fallen Lands World Map1024_1.jpg](/img/user/z_assets/Fallen%20Lands%20World%20Map1024_1.jpg)
 
 
-> bloc
->test
->
->> fjnnin
->> fdssdsgsw
->
-> sdfdfwssd
-
-
 
 > [!dice]+ Title
 > Contents
-> <h1><span><p>test</p></span></h1>
+>  <h1><span><p>test</p></span></h1>
 > ###### Bio
 >
 > <span><span><table>
@@ -52,7 +43,8 @@ test
 ````ad-quote
 title: Summary
 icon: dice-five
-collapse: open
+collapse: toto
+color: 255, 0, 0
 
 <h1><span><p>test</p></span></h1>
 
@@ -80,52 +72,6 @@ collapse: open
 </table></span></span>
 ````
 
-
-
-```ad-quote
-
-<h1><span><p>test</p></span></h1>
-
-```
-
-
-```ad-quote
-title: title
-
-<h1><span><p>test</p></span></h1>
-
-```
-
-
-```ad-quote
-color: 255, 0, 0
-
-<h1><span><p>test</p></span></h1>
-
-```
-
-```ad-quote
-collapse: open
-
-<h1><span><p>test</p></span></h1>
-
-```
-
-```ad-quote
-title: opened
-collapse: open
-
-<h1><span><p>test</p></span></h1>
-
-```
-
-```ad-quote
-title: closed
-collapse: closed
-
-<h1><span><p>test</p></span></h1>
-
-```
 
 
 
